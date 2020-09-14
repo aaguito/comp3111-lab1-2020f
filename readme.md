@@ -1,3 +1,3 @@
-Amanda Alodia Guito (20565446)
+ pseudo_name (12345678)
 
 ![](/images/Lab1_screenshot.png)
